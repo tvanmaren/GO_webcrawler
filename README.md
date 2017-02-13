@@ -17,7 +17,7 @@ layer 2's links:            help.npr.org    npr.org/contact
 ```
 ___
 ## How to Use
-As this repository is publicly available, if you already have Golang installed on your machine, you can just type `go get https://github.com/tvanmaren/GO_webcrawler` and you should be able to run it like a charm.
+As this repository is publicly available, if you already have Golang installed on your machine, you can just type `go get https://github.com/tvanmaren/GO_webcrawler`, make sure you've got my webscraper installed in the proper subfolder of your go installation (the crawler expects it at github.com/tvanmaren/scraper), and you should be able to run it like a charm.
 ___
 ## Warnings
 This crawler currently uses three seed pages:

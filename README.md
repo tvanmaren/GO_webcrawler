@@ -21,6 +21,7 @@ As this repository is publicly available, if you already have Golang installed o
 ___
 ## Warnings
 This crawler currently uses three seed pages:
+
 1. Duckduckgo.com
   * contains no links to other pages
   * completes map immediately

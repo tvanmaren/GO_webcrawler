@@ -1,7 +1,7 @@
 # Basic WebCrawler in GO
 ___
 ## Operations
-This webcrawler uses Golang's github integration to pull in another GO repository I made for a [URL Webscraper](github.com/tvanmaren/scraper). With it, we grab the HTML from a given URL, parse it for links to other pages, and pull together a map of what links can be found on what pages, much as basic search engine would do to create its database of information.
+This webcrawler uses Golang's github integration to pull in another GO repository I made for a [URL Webscraper](https://github.com/tvanmaren/scraper). With it, we grab the HTML from a given URL, parse it for links to other pages, and pull together a map of what links can be found on what pages, much as basic search engine would do to create its database of information.
 This webcrawler is currently hardcoded to operate at two full layers of depth. (see diagram below)
 ```
 layer 0:                                                bing.com
